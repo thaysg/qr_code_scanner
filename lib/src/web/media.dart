@@ -1,4 +1,4 @@
-// This is here because dart doesn't seem to support this properly
+/* // This is here because dart doesn't seem to support this properly
 // https://stackoverflow.com/questions/61161135/adding-support-for-navigator-mediadevices-getusermedia-to-dart
 
 @JS('navigator.mediaDevices')
@@ -33,3 +33,4 @@ class DeviceIdOptions {
 
   external factory DeviceIdOptions({String? exact});
 }
+ */

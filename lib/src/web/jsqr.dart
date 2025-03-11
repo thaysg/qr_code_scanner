@@ -1,4 +1,4 @@
-@JS()
+/* @JS()
 
 import 'package:js/js.dart';
 
@@ -9,3 +9,4 @@ external Code jsQR(var data, int? width, int? height);
 class Code {
   external String get data;
 }
+ */
